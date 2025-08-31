@@ -1,0 +1,19 @@
+body{
+    background-image: url("/bg.jpg");
+}
+.currency-main{
+    width: 420px;
+    height: 450px;
+    background-color: #ffffff;
+    margin-top: 50px;
+}
+.currency-main h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.form-group label{
+margin-top: 40px;
+}
+.m-2{
+    width: 25%;
+}
